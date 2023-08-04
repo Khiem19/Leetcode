@@ -19,3 +19,5 @@ public:
         
     }
 };
+
+/* using fibonanci sequence when sum(n) = sum(n-1) + sum(n-2) */
